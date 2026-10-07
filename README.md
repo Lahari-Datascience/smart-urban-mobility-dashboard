@@ -550,5 +550,3 @@ Power BI | Data Analytics | Data Science
 
 ```
 
-**For GitHub, I recommend this version** because a recruiter can understand the complete scope of your project without opening the `.pbix` file.
-```
