@@ -548,5 +548,3 @@ B.Tech — CSE (Data Science)
 
 Power BI | Data Analytics | Data Science
 
-```
-
